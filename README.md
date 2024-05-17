@@ -2,7 +2,7 @@
 
 This Github discovery app that lets you browse the most starred repos in the last 7 days
 ## Live Demo
-github-discovery-ckmw.vercel.app
+[Github Discovery](github-discovery-ckmw.vercel.app)
 
 
 ## Built With
