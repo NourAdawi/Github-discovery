@@ -39,7 +39,12 @@ export const RespositoriesList = ({
 
   return (
     <Box px={20}>
-      <Box display="flex" justifyContent="space-between" alignItems="center">
+      <Box
+        display="flex"
+        justifyContent="space-between"
+        alignItems="center"
+        mb={2}
+      >
         <Box display="flex" alignItems="baseline">
           <Typography variant="h3" fontWeight="bold" mr={1}>
             {totalNumber}
